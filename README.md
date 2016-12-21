@@ -8,7 +8,7 @@
 <h2>Composer Installation Instructions</h2>
 Add GIT Repository to composer
 <pre>
-composer config repositories.emizentech-magento2-price-slider vcs https://github.com/emizentech/magento2-price-slider/
+composer config repositories.emizentech-magento2-price-slider vcs https://github.com/HertogJashin/magento2-price-slider
 </pre>
 
 Since this package is in a development stage, you will need to change the minimum-stability as well to the composer.json file: -
